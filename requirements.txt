@@ -1,0 +1,3 @@
+# Core benchmark: Python 3.10+ standard library only.
+# Optional, for figures:
+matplotlib>=3.7
